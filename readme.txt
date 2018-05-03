@@ -3,7 +3,7 @@ EuMoBot: Replicating Euglenoid Movement in a Soft Robot
 
 Authors: Krishna Manaswi Digumarti, Andrew Conn and Jonathan Rossiter
 
-This folder contains five files of csv type. They are as follows:
+This folder contains six files of csv type. They are as follows:
 
 1. centroids_largeRobot - coordinates of centroids of the large robot recorded during multiple trials along with timestamp.
 			  formatted as x1,y1,t1,x2,y2,t2,... for each data point.
